@@ -3,73 +3,73 @@
     "venues":[
         {
             "id": 1,
-            "title": "Garden Paradise",
-            "description": "A serene garden venue with lush greenery and beautiful floral arrangements.",
-            "rating": 4.5,
-            "photo": "https://example.com/garden_paradise.jpg"
+            "title": "Kumarakom Lake Resort, Kerala",
+            "description": "Kumarakom Lake Resort is a venue based out of Kottayam. It is accessible for you to have your wedding functions hosted with amazing assistance and excellent designs, making it a superb second worth appreciating forever. While planning for your wedding celebrations, you first need to choose your place perfectly. ",
+            "rating": 5.0,
+            "photo": "https://cdn0.weddingwire.in/vendor/6032/3_2/960/jpg/klr-image-30_15_86032-165529156163781.webp"
         },
         {
       "id": 2,
-      "title": "Oceanfront Retreat",
-      "description": "An elegant oceanfront venue offering breathtaking views and luxurious amenities.",
+      "title": "O by Tamara,Thiruvananthapuram",
+      "description": "Nestled in the stunning coastal city of Trivandrum, O by Tamara captivates guests with its outstanding hospitality, grand banquets, and unrivalled wedding venue. our hotel offers a picturesque setting that sets the stage for memorable celebrations, catering to a variety of wedding traditions and customs.",
       "rating": 4.8,
-      "photo": "https://example.com/oceanfront_retreat.jpg"
+      "photo": "https://cdn0.weddingwire.in/vendor/9940/3_2/960/png/screenshot-2023-06-13-163957_15_449940-168665481131418.webp"
     },
     {
         "id": 3,
-        "title": "Rustic Barn",
-        "description": "A charming rustic barn venue perfect for romantic weddings and cozy receptions.",
+        "title": "Amritara Hornbill Camp,Ernakulam",
+        "description": "Amritara Hornbill Camp is a premium hotel located in the city of Ernakulam. Amritara Hotels is a chain of luxury resorts spread across the country that offers a great number of modern facilities and amenities and services that makes it an ideal union stop for hosting all kinds of wedding functions with your loved ones.",
         "rating": 4.2,
-        "photo": "https://example.com/rustic_barn.jpg"
+        "photo": "https://cdn0.weddingwire.in/vendor/0365/original/960/jpg/marriage-garden-amritara-hornbill-camp-event-space-11_15_330365-159532089321412.webp"
     },
     {
         "id": 4,
-        "title": "Grand Ballroom",
-        "description": "A luxurious grand ballroom venue with exquisite decor and impeccable service.",
+        "title": "Niko Hotels,Kochi",
+        "description": "Niko Hotels is a wedding banquet hall located in Kochi. You can choose the banquet hall for your reception or a small sangeet or mehndi ceremony. The hotel staff and management's emphasis remains on your comfort and is of utmost importance. ",
         "rating": 4.6,
-        "photo": "https://example.com/grand_ballroom.jpg"
+        "photo": "https://cdn0.weddingwire.in/vendor/8284/original/1280/jpg/banquet-halls-niko-hotels-10_15_368284-164552523250007.webp"
     },
     {
         "id": 5,
-      "title": "Mountain Lodge",
-      "description": "A cozy mountain lodge venue nestled in the heart of nature, perfect for intimate gatherings.",
-      "rating": 4.4,
-      "photo": "https://example.com/mountain_lodge.jpg"
+      "title": "The Rajdhani Banquet Hall, Thiruvananthapuram",
+      "description": "Your wedding is going to one of the most memorable events of your life. To celebrate this special day you need a venue that gives you all the luxury and setting of a grand wedding day. Located in Central Delhi, The Rajdhani Banquet Hall is one such venue space that provides the best of modern interiors will outstanding services to ensure that your wedding is a memorable one.",
+      "rating": 4.0,
+      "photo": "https://cdn0.weddingwire.in/vendor/0185/original/1280/jpg/your-best-memory-together_15_20185.webp"
     },
     {
         "id": 6,
-        "title": "City Rooftop",
-        "description": "A stylish rooftop venue offering panoramic city views and modern amenities.",
+        "title": "Apollo Dimora Calicut,Kozhikode",
+        "description": "Apollo Dimora Calicut is a banquet hall ideally located near Cyber Park in Kozhikode City. Choosing a suitable banquet hall is the first step to managing the perfect wedding. If you are looking for an ideal banquet hall to host your wedding functions, then The Apollo Dimora Calicut is the choice that you should make.",
       "rating": 4.7,
-      "photo": "https://example.com/city_rooftop.jpg"
+      "photo": "https://cdn0.weddingwire.in/vendor/8400/3_2/960/jpg/banquet-halls-apollo-dimora-calicut-facade_15_428400-166737573620118.webp"
     },
     {
       "id": 7,
-      "title": "Historic Mansion",
-      "description": "An opulent historic mansion venue steeped in elegance and charm, perfect for grand affairs.",
-      "rating": 4.9,
-      "photo": "https://example.com/historic_mansion.jpg"
+      "title": "LA Mirage Koratty,Thrissur",
+      "description": "LA Mirage Koratty is a banquet hall located near Koratty in Thrissur City. The first step to organising a perfect wedding is to choose a fantastic venue at an affordable price range which matches all the requirements for your ceremonies. Situated in the peaceful town of Koratty – Kerala",
+      "rating": 5.0,
+      "photo": "https://cdn0.weddingwire.in/vendor/6742/3_2/960/jpg/img-5430_15_436742-167569178958183.webp"
     },
     {
         "id": 8,
-        "title": "Beach Resort",
-        "description": "A luxurious beach resort venue offering stunning ocean views and top-notch amenities.",
+        "title": "P. Subramaniam Halll,Thiruvananthapuram",
+        "description": "P. Subramaniam Hall is a wedding venue based out of Thiruvananthapuram that is perfect to host your nuptials and wedding-related festivities to make your weddings an eternal one. Be it pre-wedding, wedding or post-wedding celebrations, they can make all your celebrations strong.",
         "rating": 4.7,
-        "photo": "https://example.com/beach_resort.jpg"
+        "photo": "https://cdn0.weddingwire.in/vendor/5747/original/1280/jpg/banquet-halls-p-subramaniam-hall-event-space-7_15_355747-161476489593505.webp"
     },
     {
         "id": 9,
-        "title": "Vineyard Estate",
-        "description": "A picturesque vineyard estate venue surrounded by rolling hills and lush vineyards.",
-        "rating": 4.3,
-        "photo": "https://example.com/vineyard_estate.jpg"
+        "title": "PM Palace,Thrissur",
+        "description": "PM Palace is a Kalyana Mandapam located near Guruvayur in Thissur City. Desiring an honourable wedding venue is the key to scheduling the perfect wedding. If you are searching for an ideal wedding venue to host your wedding functions, then PM Palace is the choice you should make.",
+        "rating": 5.0,
+        "photo": "https://cdn0.weddingwire.in/vendor/0322/3_2/960/jpg/file-1694924517484_15_430322-169492451912456.webp"
     },
     {
         "id": 10,
-        "title": "Country Club",
-        "description": "An exclusive country club venue featuring elegant interiors and manicured grounds.",
+        "title": "Taj Malabar Resort & Spa, Cochin",
+        "description": "However grand or intimate the celebration may be, Taj Malabar Resort & Spa, Cochin offers you a bespoke location and make sure that you and your guests enjoy their stay as well as, their experience with the hotel. ",
         "rating": 4.6,
-        "photo": "https://example.com/country_club.jpg"
+        "photo": "https://cdn0.weddingwire.in/vendor/8960/3_2/960/jpg/taj-malabar1_15_78960-163048110229913.webp"
     }
 ]
 
